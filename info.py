@@ -72,7 +72,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+moYcRiR-1mM5NDg1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/LuffyMovies')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MovieSeriesArea')
 TUTORIAL = environ.get('TUTORIAL', 'https://www.youtube.com/watch?v=oyb-4Nrcr6M')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'itz_admin_bot') # Support Chat Link Without https:// or @
 
@@ -103,7 +103,7 @@ VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'f36363de6a2e9cdd9b3f
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', '')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://www.youtube.com/watch?v=oyb-4Nrcr6M')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/MovieSeriesArea/1330')
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
